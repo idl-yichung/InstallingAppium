@@ -172,7 +172,7 @@ $ appium
 $ wget http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz
 $ tar -xvzf android-sdk_r24.4.1-linux.tgz
 $ rm android-sdk_r24.4.1-linux.tgz
-$ /tools/android update sdk -u -a
+$ android-sdk-linux/tools/android update sdk -u -a
 ```
    Edit the path:
 ```
